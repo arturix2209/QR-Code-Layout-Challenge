@@ -1,0 +1,39 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+    
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 3%;
+    box-shadow: 0 0 20px hsl(218, 44%, 22%);
+    margin: 100px auto;
+    width: 300px;
+}
+
+img {
+    border-radius: 3%;
+    margin: 5%;
+    width: 90%;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0;
+    padding: 0 20px;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    padding: 0 20px 30px;
+}
